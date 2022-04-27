@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "iron_knife": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "farmersdelite:iron_knife"
+            }
+        }
+    },
+    "rewards": {
+        "function": "farmersdelite:items/iron_knife"
+    }
+}

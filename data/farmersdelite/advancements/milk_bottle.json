@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "milk_bottle": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "farmersdelite:milk_bottle"
+            }
+        }
+    },
+    "rewards": {
+        "function": "farmersdelite:items/milk_bottle"
+    }
+}

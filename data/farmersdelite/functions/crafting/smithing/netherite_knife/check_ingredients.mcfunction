@@ -1,0 +1,2 @@
+execute as @e[type=item,nbt={Item:{id:"minecraft:netherite_ingot"}},predicate=farmersdelite:smithing_below] at @s run function farmersdelite:crafting/smithing/netherite_knife/commit
+tag @s add nkf.ingredient

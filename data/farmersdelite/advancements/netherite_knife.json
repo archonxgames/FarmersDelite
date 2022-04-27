@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "netherite_knife": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "farmersdelite:netherite_knife"
+            }
+        }
+    },
+    "rewards": {
+        "function": "farmersdelite:items/netherite_knife"
+    }
+}

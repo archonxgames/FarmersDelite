@@ -1,0 +1,1 @@
+tellraw @a {"text": "Farmer's Delite datapack initialized.", "color": "dark_green"}

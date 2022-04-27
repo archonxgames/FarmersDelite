@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "has_the_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "farmersdelite:golden_knife"
+            }
+        }
+    },
+    "rewards": {
+        "function": "farmersdelite:items/golden_knife"
+    }
+}

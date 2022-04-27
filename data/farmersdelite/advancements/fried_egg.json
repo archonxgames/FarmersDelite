@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "farmersdelite:fried_egg"
+      }
+    }
+  },
+  "rewards": {
+    "function": "farmersdelite:items/fried_egg"
+  }
+}

@@ -1,0 +1,19 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:potion",
+			"nbt": "{CustomModelData:3720775,CustomPotionColor:16777215}"
+		},
+		"title": "Farmer's Delite",
+        "frame": "challenge",
+		"description": ["",{"text":" A vanilla-friendly version of Farmer's Delight!\n","color":"gold"},{"text":"Created by Dumblore","color":"yellow"}],
+		"background": "minecraft:textures/block/spruce_planks.png",
+        "show_toast": false,
+		"announce_to_chat": false
+	},
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

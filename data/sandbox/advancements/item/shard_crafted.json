@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "treasure_Shard": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "sandbox:item/shard"
+            }
+        }
+    },
+    "rewards": {
+        "function": "sandbox:item/shard_crafted"
+    }
+}

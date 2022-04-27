@@ -1,0 +1,12 @@
+{
+    "condition": "location_check",
+    "offsetX": 0,
+    "offsetY": -1,
+    "offsetZ": 0,
+    "predicate": {
+        "block": {
+            "tag": "sandbox:dictionary/containers",
+            "nbt": "{Items:[]}"
+        }
+    }
+}
