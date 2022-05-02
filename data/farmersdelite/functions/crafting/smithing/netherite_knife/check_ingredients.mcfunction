@@ -1,2 +1,1 @@
-execute as @e[type=item,nbt={Item:{id:"minecraft:netherite_ingot"}},predicate=farmersdelite:smithing_below] at @s run function farmersdelite:crafting/smithing/netherite_knife/commit
-tag @s add nkf.ingredient
+execute at @s if entity @e[type=item,nbt={Item:{id:"minecraft:netherite_ingot",Count:1b}},limit=1,sort=nearest,distance=0..1] align xyz run function farmersdelite:crafting/smithing/netherite_knife/commit

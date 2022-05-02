@@ -5,7 +5,7 @@
     "offsetZ": 0,
     "predicate": {
         "block": {
-            "blocks": ["smithing_table"]
+            "blocks": ["smithing_table", "anvil"]
         }
     }
 }

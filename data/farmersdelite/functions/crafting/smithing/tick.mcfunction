@@ -1,0 +1,1 @@
+execute as @e[type=item,nbt={Item:{id:"minecraft:stone_sword",tag:{CustomModelData:1383092,display:{Name:'[{"text":"Diamond Knife","italic":false}]'}},Count:1b}},sort=nearest,limit=1,predicate=farmersdelite:smithing_below] at @s run function farmersdelite:crafting/smithing/netherite_knife/check_ingredients
