@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "farmersdelite:item/cooked_ham"
+		"layer0": "farmersdelite:item/smoked_ham"
 	}
 }
