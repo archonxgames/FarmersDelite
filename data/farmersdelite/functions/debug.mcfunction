@@ -1,1 +1,0 @@
-tellraw @a {"text": "Im on a smithing!"}

@@ -1,0 +1,13 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/stone_sword"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data":1383089}, "model": "farmersdelite:item/flint_knife" },
+		{ "predicate": {"custom_model_data":1383090}, "model": "farmersdelite:item/iron_knife" },
+		{ "predicate": {"custom_model_data":1383091}, "model": "farmersdelite:item/golden_knife" },
+		{ "predicate": {"custom_model_data":1383092}, "model": "farmersdelite:item/diamond_knife" },
+		{ "predicate": {"custom_model_data":1383093}, "model": "farmersdelite:item/netherite_knife" }
+    ]
+}
