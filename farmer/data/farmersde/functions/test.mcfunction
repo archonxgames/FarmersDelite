@@ -1,0 +1,2 @@
+execute as @e[type=minecraft:armor_stand,tag=plitkamarker] at @s align xz positioned ~0.5 ~ ~0.5 run summon minecraft:armor_stand ~ ~-0.61 ~ {NoGravity:1b,Marker:1b,Small:1b,Tags:["test"]}
+playsound minecraft:block.wood.place block @a ~ ~ ~
