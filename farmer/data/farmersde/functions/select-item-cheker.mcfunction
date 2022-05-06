@@ -1,0 +1,2 @@
+execute as @a[scores={PlitkaTolder=1..}] at @s if predicate farmersde:selectitem-item if entity @e[type=minecraft:villager,tag=plitka,distance=..2] run say 1
+execute as @a[scores={PlitkaTolder=1..}] at @s if predicate farmersde:selectitem-block if entity @e[type=minecraft:villager,tag=plitka,distance=..2] run function farmersde:test
